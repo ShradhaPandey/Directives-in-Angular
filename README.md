@@ -23,3 +23,5 @@ or can generate by running this commmand: ng g d directive-name
   This will highlight the text on a mouse-over event and make background color as orange.
 
 using custom property binding
+4. unless: creating your own custom structural directive
+this directive will work opposite of *ngIf, i.e. it will display the dom element only if the condition given is false.
