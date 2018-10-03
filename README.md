@@ -12,5 +12,8 @@ we can chnage the styling dynamically.
 
 Custom directive: we can create our own directives.
 
+-you can create one manually and update app.module.ts file accordingly
+or can generate by running this commmand: ng g d directive-name
+
 1. appBasicHighlight: accessing the dom elements directly using ElementRef
 2. appBetterHighlight: usind renderer and renderer.setStyle
