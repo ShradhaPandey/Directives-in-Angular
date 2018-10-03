@@ -21,3 +21,5 @@ or can generate by running this commmand: ng g d directive-name
   This will highlight the text on a mouse-over event and make background color as yellow.
 3. appHlHighlight: using @HostBinding
   This will highlight the text on a mouse-over event and make background color as orange.
+
+using custom property binding
