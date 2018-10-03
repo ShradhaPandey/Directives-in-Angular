@@ -9,3 +9,7 @@ ngClass: define a css class in css file and use it on an element when you want t
 ngStyle: define a css style, inline way on the element itself and use it on an element when you want to change the styling dynamically.
 Since both ngClass and ngStyle directives work only when the given condition is true,
 we can chnage the styling dynamically.
+
+Custom directive: we can create our own directives.
+
+1. appBasicHighlight
