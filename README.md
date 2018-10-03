@@ -12,4 +12,5 @@ we can chnage the styling dynamically.
 
 Custom directive: we can create our own directives.
 
-1. appBasicHighlight
+1. appBasicHighlight: accessing the dom elements directly using ElementRef
+2. appBetterHighlight: usind renderer and renderer.setStyle
