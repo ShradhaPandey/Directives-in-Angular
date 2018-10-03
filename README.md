@@ -18,6 +18,6 @@ or can generate by running this commmand: ng g d directive-name
 1. appBasicHighlight: accessing the dom elements directly using ElementRef
 2. appBetterHighlight: using renderer and renderer.setStyle
   To make it even more reactive: use @HostListener to react to any event on an element.
-  
   This will highlight the text on a mouse-over event and make background color as yellow.
-
+3. appHlHighlight: using @HostBinding
+  This will highlight the text on a mouse-over event and make background color as orange.
